@@ -1,6 +1,10 @@
-# pinkytodo
+# Pinky To-Do
 
-A new Flutter project.
+A simple to-do app developed using Flutter.
+
+<img src="https://github.com/Ender-Wang/Pinky-To-Do/assets/33310255/360d9484-a386-400f-9e86-c80c9f742ecd" alt="Breakfast Home" width="300" height="auto">
+
+<img src="https://github.com/Ender-Wang/Pinky-To-Do/assets/33310255/aaa29853-d949-4834-8100-22111f8052cb" alt="Breakfast Home" width="300" height="auto">
 
 ## Getting Started
 
